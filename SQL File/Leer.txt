@@ -1,0 +1,23 @@
+Cómo ejecutar el Sistema de Gestión Turística en PHP y  MySQL.
+
+1. Descargue el archivo zip
+
+2. Extraiga el archivo y copie la carpeta tms.
+
+3.Pegue dentro del directorio raíz (para xampp xampp/htdocs, para wamp wamp/www, para lamp var/www/HTML)
+
+4.Abra PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Importe el archivo tms.sql (que se encuentra dentro del paquete zip en la carpeta del archivo SQL)
+
+6. Indique la ruta URL de la ubicacion del proyecto, Ejem: http://localhost/tms
+
+Credencial de administrador
+Nombre de usuario: admin
+Contraseña: admin
+
+Credencial usuario
+Nombre de usuario: user@mail.com
+Contraseña: user
+
+Tambien puede registrar un nuevo usuario.
